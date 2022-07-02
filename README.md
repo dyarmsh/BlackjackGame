@@ -4,7 +4,7 @@ You can access the live link here: https://dyarmsh.github.io/BlackjackGame/
 
 
 ## The Rules
-The AIM of the game is to get **21 points in total**. An (Ace) is considered 11 points, K,J,Q are considered 10 points and the rest are considered as their numeric value.
+The AIM of the game is to get **21 points in total**. An A (Ace) is considered 11 points, K,J,Q are considered 10 points and the rest are considered as their numeric value.
 
 ## "Start Game"
 Start the game to see your first 2 cards. Depending on the message displayed, you can choose to continue if the sum of your cards is 21. If it is 21 points, then congrats! You got Blackjack! If you got more than 21 points, you'll have to start a new game :(
