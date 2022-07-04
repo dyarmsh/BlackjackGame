@@ -5,7 +5,7 @@ hasBlackjack = false
 let cards = []
 let message = ""
 
-// DOM manipulation 
+// DOM manipulation REMARK
 let messageEl = document.getElementById("message-el")
 let cardsEl = document.getElementById("cards-el")
 let sumEl = document.getElementById("sum-el")
